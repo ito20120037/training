@@ -4,6 +4,8 @@
 #### 　　・情報学部
 ### ・誕生月
 ####   　・3月
+###　・好きなもの
+
 ### 私が普段しているゲームは[こちら](https://granbluefantasy.jp/)
 ## Welcome to GitHub Pages
 <div id="one">
