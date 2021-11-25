@@ -2,8 +2,6 @@
 ## 概要
 ### ・所属
 #### 　　・情報学部
-### ・場所
-#### 　　・米山
 ### 私が普段しているゲームは[こちら](https://granbluefantasy.jp/)
 ## Welcome to GitHub Pages
 
