@@ -1,5 +1,5 @@
 ## ようこそ　ito20120037です。
-#私が普段しているゲームは[こちら](https://granbluefantasy.jp/)
+# 私が普段しているゲームは[こちら](https://granbluefantasy.jp/)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ito20120037/training/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
