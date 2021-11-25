@@ -6,7 +6,11 @@
 ####  　・3月
 ### 私が普段しているゲームは[こちら](https://granbluefantasy.jp/)
 ## Welcome to GitHub Pages
-
+<div id="one">
+  <div class="inner clearfix">
+    <section id="main-content">
+      <h2 id="概要">概要</h2>
+      
 You can use the [editor on GitHub](https://github.com/ito20120037/training/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
