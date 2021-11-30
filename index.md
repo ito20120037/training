@@ -6,6 +6,8 @@
 ####  ・3月
 ### ・好きなもの
 #### ・りんご　パイン
+### ・好きな漫画
+#### ・[家庭教師ヒットマンREBORN!](https://ja.wikipedia.org/wiki/%E5%AE%B6%E5%BA%AD%E6%95%99%E5%B8%AB%E3%83%92%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3REBORN!)
 ### 私が普段しているゲームは[こちら](https://granbluefantasy.jp/)
 ## Welcome to GitHub Pages
 
